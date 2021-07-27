@@ -1,4 +1,4 @@
-Apprenti
+Apprentice
 <br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Runeria)
 ![GitHub followers](https://img.shields.io/github/followers/Runeria?style=social)
@@ -6,7 +6,7 @@ Apprenti
 ![Metrics](https://metrics.lecoq.io/Runeria?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FParis)
 
 
-*Langages actuels:*  
+*Languages I'm currently learning:*  
 
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/> </a>
