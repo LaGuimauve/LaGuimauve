@@ -1,7 +1,9 @@
-Apprenti Python
-<br>
+Apprenti
+<br><br>
 ![Profile Views](https://komarev.com/ghpvc/?username=Runeria)
 ![GitHub followers](https://img.shields.io/github/followers/Runeria?style=social)
+
+![Metrics](https://metrics.lecoq.io/Runeria?template=classic&isocalendar=1&languages=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FParis)
 
 
 *Langages actuels:*  
@@ -13,6 +15,3 @@ Apprenti Python
   <a href="https://en.wikipedia.org/wiki/Hypertext_Markup_Language" target="_blank"> <img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2016/04/html5-logo-1-512x500.png" alt="HTML" width="55" height="55" /> </a>
   <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="PHP" width="58" height="56" /> </a>
 </p>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Runeria&theme=chartreuse-dark)
-
