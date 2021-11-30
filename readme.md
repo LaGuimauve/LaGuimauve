@@ -12,6 +12,6 @@ Apprentice
   <a href="https://www.python.org" target="_blank"> <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50"/> </a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="50" height="56" />
   <a href="https://en.wikipedia.org/wiki/C_sharp" target="_blank"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="PHP" width="49" height="55" /> </a>
-  <a href="https://en.wikipedia.org/wiki/Hypertext_Markup_Language" target="_blank"> <img src="https://www.blog-nouvelles-technologies.fr/wp-content/uploads/2016/04/html5-logo-1-512x500.png" alt="HTML" width="55" height="55" /> </a>
-  <a href="https://en.wikipedia.org/wiki/CSS" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202020css3htmllogosocialsocialmedia-115668_115633.png" alt="PHP" width="58" height="56" /> </a>
+   <a href="https://en.wikipedia.org/wiki/Windows_PowerShell" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PowerShell_5.0_icon.png" alt="Powershell" width="58" height="58" /> </a>
+  <a href="https://en.wikipedia.org/wiki/Bourne-Again_shell" target="_blank"> <img src="https://cdn2.iconfinder.com/data/icons/flat-common-9/32/command_prompt-512.png" alt="Bash" width="55" height="55" /> </a>
 </p>
